@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import Color from "./Color";
 import Block from "./Block";
-import Feed from "./Feed";
 /* Add any imports you think you might need here! */
 
 const Menu = () => { 

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6832693.css",
-    "main.js": "/static/js/main.7b53ece8.js",
-    "static/js/787.263e14e4.chunk.js": "/static/js/787.263e14e4.chunk.js",
-    "index.html": "/index.html",
-    "main.b6832693.css.map": "/static/css/main.b6832693.css.map",
-    "main.7b53ece8.js.map": "/static/js/main.7b53ece8.js.map",
-    "787.263e14e4.chunk.js.map": "/static/js/787.263e14e4.chunk.js.map"
+    "main.css": "/fullstack-decal-fa22/hw4-vincent-lin-0/static/css/main.b6832693.css",
+    "main.js": "/fullstack-decal-fa22/hw4-vincent-lin-0/static/js/main.17572cbf.js",
+    "static/js/787.263e14e4.chunk.js": "/fullstack-decal-fa22/hw4-vincent-lin-0/static/js/787.263e14e4.chunk.js",
+    "index.html": "/fullstack-decal-fa22/hw4-vincent-lin-0/index.html",
+    "main.b6832693.css.map": "/fullstack-decal-fa22/hw4-vincent-lin-0/static/css/main.b6832693.css.map",
+    "main.17572cbf.js.map": "/fullstack-decal-fa22/hw4-vincent-lin-0/static/js/main.17572cbf.js.map",
+    "787.263e14e4.chunk.js.map": "/fullstack-decal-fa22/hw4-vincent-lin-0/static/js/787.263e14e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6832693.css",
-    "static/js/main.7b53ece8.js"
+    "static/js/main.17572cbf.js"
   ]
 }

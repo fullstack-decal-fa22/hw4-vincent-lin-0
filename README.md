@@ -1,1 +1,1 @@
-https://vincent-lin-0.github.io/fullstack-decal-fa22/hw4-vincent-lin-0
+https://fullstack-decal-fa22.github.io/hw4-vincent-lin-0/
